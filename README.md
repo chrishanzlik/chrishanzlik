@@ -1,4 +1,4 @@
-### Currently working on [@PixelVampire](https://github.com/chrishanzlik/PixelVampire) 👋
+### Happy new year! 👋
 
 <!--
 **chrishanzlik/chrishanzlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
